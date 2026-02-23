@@ -97,7 +97,7 @@ Includes:
       
 3. Sales and customer behavior trends
 
-<img width="1954" height="1064" alt="Screenshot 2026-02-23 170302" src="https://github.com/user-attachments/assets/55ba1bba-69dd-40ac-b286-957a4abc1d99" />
+<img width="1953" height="1064" alt="Screenshot 2026-02-23 174505" src="https://github.com/user-attachments/assets/7d89d04f-3889-41cb-b17e-473c0b5c5d14" />
 
 #
 
