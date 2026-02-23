@@ -80,6 +80,9 @@ Shopping behavior (discount usage, frequency, ratings, shipping type)
 
 - Revenue contribution by age group
 
+### PostgreSQL Queries
+- <a href="https://github.com/YTFarhan/Customer_Behaviour_Analysis/blob/main/Customer%20Shopping%20Behavior%20Analysis.sql">View SQL Query</a>
+
 #
 
 ### Dashboard
