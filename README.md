@@ -1,6 +1,3 @@
-# Customer_Behaviour_Analysis
-A data analytics project showcasing customer behaviour analysis using Python, PostgreSQL and Power BI
-
 # Project Overview
 This project analyzes customer shopping behavior using transactional and demographic data to uncover insights into spending patterns, customer segments, and purchasing trends. The goal is to demonstrate a complete data analytics workflow, from raw data ingestion to business-ready insights and visualization. The project showcases skills in Python, SQL (PostgreSQL), and Power BI, along with structured analytical thinking and clear communication through reporting.
 
@@ -23,3 +20,61 @@ Customer demographics (age, gender, location, subscription status)
 Purchase details (category, item, purchase amount)
 
 Shopping behavior (discount usage, frequency, ratings, shipping type)
+
+# Project Workflow
+
+1. Data Preparation (Python)
+
+- Loaded the dataset using pandas
+
+- Inspected schema, data types, and summary statistics
+
+- Standardized column names for readability and SQL compatibility
+
+- Handled missing review ratings using median imputation by product category
+
+- Performed feature engineering (e.g., age grouping, purchase behavior metrics)
+
+#
+
+2. Exploratory Data Analysis
+
+- Analyzed distributions of purchase amounts and ratings
+
+- Explored customer demographics and subscription behavior
+
+- Identified trends in discounts, shipping types, and repeat purchases
+
+-Validated data integrity before database insertion
+
+#
+
+3. SQL Analysis (PostgreSQL)
+
+- Loaded cleaned data into PostgreSQL
+
+- Wrote SQL queries to answer key business questions, including:
+
+- Revenue by gender
+
+- Subscriber vs. non-subscriber spending
+
+- High-spending customers using discounts
+
+- Top-rated and most-purchased products
+
+- Customer segmentation based on purchase history
+
+- Revenue contribution by age group
+
+# Dashboard
+
+- Built an interactive Power BI dashboard to visualize key insights
+
+Includes:
+
+1. Key KPIs (total customers, total revenue, average rating)
+
+2. Revenue by category and age group
+
+3. Sales and customer behavior trends
