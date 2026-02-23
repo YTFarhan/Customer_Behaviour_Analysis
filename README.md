@@ -97,6 +97,8 @@ Includes:
       
 3. Sales and customer behavior trends
 
+<img width="1954" height="1064" alt="Screenshot 2026-02-23 170302" src="https://github.com/user-attachments/assets/55ba1bba-69dd-40ac-b286-957a4abc1d99" />
+
 #
 
 ### Results
@@ -112,10 +114,5 @@ Includes:
 These insights can support targeted marketing, subscription growth, and product positioning strategies.
 
 
-#
-
-
-## Dashboard w/ Insights
-<img width="1954" height="1064" alt="Screenshot 2026-02-23 170302" src="https://github.com/user-attachments/assets/55ba1bba-69dd-40ac-b286-957a4abc1d99" />
 
 
