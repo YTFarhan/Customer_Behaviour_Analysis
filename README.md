@@ -18,6 +18,8 @@ Pandas, NumPy, Matplotlib/Seaborn – Python data analysis libraries
 
 ### Dataset Overview
 
+- <a href="https://github.com/YTFarhan/Customer_Behaviour_Analysis/blob/main/customer_shopping_behavior.csv">View Dataset</a>
+
 Records: ~3,900 customer purchases
 
 Features include:
