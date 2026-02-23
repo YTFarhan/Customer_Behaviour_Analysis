@@ -31,9 +31,6 @@ Shopping behavior (discount usage, frequency, ratings, shipping type)
 
 #
 
-### Python Code
-- <a href="https://github.com/YTFarhan/Customer_Behaviour_Analysis/blob/main/Customer%20Shopping%20Behavior%20Analysis.ipynb">View Code</a>
-
 ### Project Workflow
 
 1. Data Preparation (Python)
@@ -50,7 +47,7 @@ Shopping behavior (discount usage, frequency, ratings, shipping type)
 
 #
 
-2. Exploratory Data Analysis
+2. Exploratory Data Analysis (Python)
 
 - Analyzed distributions of purchase amounts and ratings
 
@@ -59,6 +56,9 @@ Shopping behavior (discount usage, frequency, ratings, shipping type)
 - Identified trends in discounts, shipping types, and repeat purchases
 
 - Validated data integrity before database insertion
+
+### Python Code
+- <a href="https://github.com/YTFarhan/Customer_Behaviour_Analysis/blob/main/Customer%20Shopping%20Behavior%20Analysis.ipynb">View Code</a>
 
 #
 
