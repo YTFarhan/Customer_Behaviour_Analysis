@@ -89,6 +89,8 @@ Shopping behavior (discount usage, frequency, ratings, shipping type)
 
 - Built an interactive Power BI dashboard to visualize key insights
 
+- <a href="https://youtu.be/7p8fgOQrbNw?si=GeAzBBKD6-r7qgOw">Live View Dashboard</a>
+
 Includes:
 
 1. Key KPIs (total customers, total revenue, average rating)
